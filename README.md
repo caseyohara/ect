@@ -27,8 +27,8 @@ $ rspec spec
 ```
 
 - edit `lib/ect.rb` to make the specs green
-- post your `lib/ect.rb` as a [gist](https://gist.github.com/)
-- [pull request](https://github.com/caseyohara/ect/pull/new/master) a change to this README that adds a link to your gist
+- post your `lib/ect.rb` as a [gist](https://gist.github.com/) ([example](https://gist.github.com/caseyohara/5651968))
+- [pull request](https://github.com/caseyohara/ect/pull/new/master) a change to this README that adds a link to your gist ([example](https://github.com/caseyohara/ect/pull/1))
 - -or- [create an issue](https://github.com/caseyohara/ect/issues/new) with a link to your gist
 
 <br>
