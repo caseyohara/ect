@@ -54,7 +54,7 @@ $ rspec spec
 (1..10).reject { |i|  i % 3 == 0 }.should == [1, 2, 4, 5, 7, 8, 10]
 [1, 2, 3, 4, 5].reject { |num| num.even? }.should == [1, 3, 5]
 
-# #select
+# select
 (1..10).select { |i|  i % 3 == 0 }.should == [3, 6, 9]
 [1,2,3,4,5].select { |num|  num.even?  }.should == [2, 4]
 ```
